@@ -26,6 +26,9 @@ Job scam emails often mimic real offers, making them hard to detect using tradit
 - Pre-trained Random Forest model (`grid_rf_model.pkl`) with high precision and recall.
 
 ---
+## 🏗 System Architecture 
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_g6r5gog6r5gog6r5" src="https://github.com/user-attachments/assets/746288d4-a818-4ec2-bb8a-d90708d688ac" />
 
 ## 🗂 Project Structure
 
